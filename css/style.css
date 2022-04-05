@@ -74,5 +74,14 @@ footer{
     .lang .lang-icon {
         width:80%;
     }
+    #intro{
+        padding: 5px;
+    }
+    #langs{
+        padding: 5px;
+    }
+    #intro h1{
+        font-size: 28px;
+    }
     
 }
